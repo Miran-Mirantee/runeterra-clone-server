@@ -1,0 +1,856 @@
+[
+  {
+    "id": 1,
+    "name": "Ionia",
+    "type": "region",
+    "titleShield": ["/images/ionia.png"],
+    "subtitle": "The First Lands",
+    "bgImage": "/images/ionia-region.jpg",
+    "champions": [
+      {
+        "name": "Kayn",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/kayn/",
+        "image": "/assets/images/champions/portraits/kayn.png"
+      },
+      {
+        "name": "Rakan",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/rakan/",
+        "image": "/assets/images/champions/portraits/rakan.png"
+      },
+      {
+        "name": "Xayah",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/xayah/",
+        "image": "/assets/images/champions/portraits/xayah.png"
+      },
+      {
+        "name": "Ahri",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/ahri/",
+        "image": "/assets/images/champions/portraits/ahri.png"
+      },
+      {
+        "name": "Akali",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/akali/",
+        "image": "/assets/images/champions/portraits/akali.png"
+      },
+      {
+        "name": "Irelia",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/irelia/",
+        "image": "/assets/images/champions/portraits/irelia.png"
+      },
+      {
+        "name": "Jhin",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/jhin/",
+        "image": "/assets/images/champions/portraits/jhin.png"
+      },
+      {
+        "name": "Yasuo",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/yasuo/",
+        "image": "/assets/images/champions/portraits/yasuo.png"
+      },
+      {
+        "name": "Karma",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/karma/",
+        "image": "/assets/images/champions/portraits/karma.png"
+      },
+      {
+        "name": "Kennen",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/kennen/",
+        "image": "/assets/images/champions/portraits/kennen.png"
+      },
+      {
+        "name": "Lee Sin",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/leesin/",
+        "image": "/assets/images/champions/portraits/leesin.png"
+      },
+      {
+        "name": "Master Yi",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/masteryi/",
+        "image": "/assets/images/champions/portraits/masteryi.png"
+      },
+      {
+        "name": "Shen",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/shen/",
+        "image": "/assets/images/champions/portraits/shen.png"
+      },
+      {
+        "name": "Syndra",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/syndra/",
+        "image": "/assets/images/champions/portraits/syndra.png"
+      },
+      {
+        "name": "Varus",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/varus/",
+        "image": "/assets/images/champions/portraits/varus.png"
+      },
+      {
+        "name": "Zed",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/zed/",
+        "image": "/assets/images/champions/portraits/zed.png"
+      },
+      {
+        "name": "Wukong",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/monkeyking/",
+        "image": "/assets/images/champions/portraits/monkeyking.png"
+      },
+      {
+        "name": "Ivern",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/ivern/",
+        "image": "/assets/images/champions/portraits/ivern.png"
+      }
+    ],
+    "stats": [
+      { "label": "Governance", "value": "Regional provinces" },
+      { "label": "Attitude towards magic", "value": "Harmonize" },
+      { "label": "Level of technology", "value": "Low" },
+      { "label": "General environment", "value": "Magical (varied)" }
+    ],
+    "description": "Known as the First Lands, Ionia is an island continent of natural beauty and magic. Its inhabitants, living in loosely collected provinces, are a spiritual people, seeking harmony with the world. They remained largely neutral until their land was invaded by Noxus—this brutal occupation forced Ionia to reassess its place in the world, and its future path remains undetermined.",
+    "learnMoreText": "Learn more about Ionia",
+    "learnMoreUrl": "https://universe.leagueoflegends.com/en_US/region/ionia/",
+    "featuresText": "Featured in Ionia",
+    "features": [
+      {
+        "bgImage": "/images/ionia_culture_card.jpg",
+        "name": "Life in Ionia",
+        "subtitle": "Culture of Ionia"
+      },
+      {
+        "bgImage": "/images/ionia_environment_card.jpg",
+        "name": "Diverse Landscapes",
+        "subtitle": "Environment of Ionia"
+      },
+      {
+        "bgImage": "/images/ionia_architecture_card.jpg",
+        "name": "Built Into Nature",
+        "subtitle": "Architecture of Ionia"
+      },
+      {
+        "bgImage": "/images/ionia_people_card.jpg",
+        "name": "Rich Diversity",
+        "subtitle": "People of Ionia"
+      },
+      {
+        "bgImage": "/images/ionia_tools_card.jpg",
+        "name": "Daily Props",
+        "subtitle": "Tools of Ionia"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Noxus",
+    "type": "region",
+    "titleShield": ["/images/noxus.png"],
+    "subtitle": "Brutal expansionist empire",
+    "bgImage": "/images/noxus-region.jpg",
+    "champions": [
+      {
+        "name": "Cassiopeia",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/cassiopeia/",
+        "image": "/assets/images/champions/portraits/cassiopeia.png"
+      },
+      {
+        "name": "Darius",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/darius/",
+        "image": "/assets/images/champions/portraits/darius.png"
+      },
+      {
+        "name": "Draven",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/draven/",
+        "image": "/assets/images/champions/portraits/draven.png"
+      },
+      {
+        "name": "Katarina",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/katarina/",
+        "image": "/assets/images/champions/portraits/katarina.png"
+      },
+      {
+        "name": "Kled",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/kled/",
+        "image": "/assets/images/champions/portraits/kled.png"
+      },
+      {
+        "name": "LeBlanc",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/leblanc/",
+        "image": "/assets/images/champions/portraits/leblanc.png"
+      },
+      {
+        "name": "Mordekaiser",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/mordekaiser/",
+        "image": "/assets/images/champions/portraits/mordekaiser.png"
+      },
+      {
+        "name": "Riven",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/riven/",
+        "image": "/assets/images/champions/portraits/riven.png"
+      },
+      {
+        "name": "Sion",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/sion/",
+        "image": "/assets/images/champions/portraits/sion.png"
+      },
+      {
+        "name": "Swain",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/swain/",
+        "image": "/assets/images/champions/portraits/swain.png"
+      },
+      {
+        "name": "Talon",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/talon/",
+        "image": "/assets/images/champions/portraits/talon.png"
+      },
+      {
+        "name": "Vladimir",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/vladimir/",
+        "image": "/assets/images/champions/portraits/vladimir.png"
+      }
+    ],
+    "stats": [
+      { "label": "Governance", "value": "Expansionist empire" },
+      { "label": "Attitude towards magic", "value": "Weaponize" },
+      { "label": "Level of technology", "value": "Medium" },
+      { "label": "General environment", "value": "Inhospitable steppes" }
+    ],
+    "description": "Noxus is a brutal, expansionist empire, yet those who look beyond its warlike exterior will find an unusually inclusive society. Anyone can rise to a position of power and respect if they display the necessary aptitude, regardless of social standing, background, or wealth. Noxians value strength above all, though that strength can manifest in many different ways.",
+    "learnMoreText": "Learn more about Noxus",
+    "learnMoreUrl": "https://universe.leagueoflegends.com/en_US/region/noxus/",
+    "featuresText": "Featured in Noxus",
+    "features": [
+      {
+        "bgImage": "/images/noxus_culture_card.jpg",
+        "name": "Strength and Power",
+        "subtitle": "Culture of Noxus"
+      },
+      {
+        "bgImage": "/images/noxus_legion_card.jpg",
+        "name": "Militaristic Society",
+        "subtitle": "Military of Noxus"
+      },
+      {
+        "bgImage": "/images/noxus_creatures_card.jpg",
+        "name": "Noxian Beasts",
+        "subtitle": "Creatures of Noxus"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Freljord",
+    "type": "region",
+    "titleShield": ["/images/freljord.png"],
+    "subtitle": "Harsh frozen land",
+    "bgImage": "/images/freljord-region.jpg",
+    "champions": [
+      {
+        "name": "Ashe",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/ashe/",
+        "image": "/assets/images/champions/portraits/ashe.png"
+      },
+      {
+        "name": "Lissandra",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/lissandra/",
+        "image": "/assets/images/champions/portraits/lissandra.png"
+      },
+      {
+        "name": "Sejuani",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/sejuani/",
+        "image": "/assets/images/champions/portraits/sejuani.png"
+      },
+      {
+        "name": "Tryndamere",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/tryndamere/",
+        "image": "/assets/images/champions/portraits/tryndamere.png"
+      },
+      {
+        "name": "Braum",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/braum/",
+        "image": "/assets/images/champions/portraits/braum.png"
+      },
+      {
+        "name": "Nunu",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/nunu/",
+        "image": "/assets/images/champions/portraits/nunu.png"
+      },
+      {
+        "name": "Olaf",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/olaf/",
+        "image": "/assets/images/champions/portraits/olaf.png"
+      },
+      {
+        "name": "Anivia",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/anivia/",
+        "image": "/assets/images/champions/portraits/anivia.png"
+      },
+      {
+        "name": "Trundle",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/trundle/",
+        "image": "/assets/images/champions/portraits/trundle.png"
+      },
+      {
+        "name": "Udyr",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/udyr/",
+        "image": "/assets/images/champions/portraits/udyr.png"
+      },
+      {
+        "name": "Volibear",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/volibear/",
+        "image": "/assets/images/champions/portraits/volibear.png"
+      },
+      {
+        "name": "Ornn",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/ornn/",
+        "image": "/assets/images/champions/portraits/ornn.png"
+      },
+      {
+        "name": "Gnar",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/gnar/",
+        "image": "/assets/images/champions/portraits/gnar.png"
+      },
+      {
+        "name": "Gragas",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/gragas/",
+        "image": "/assets/images/champions/portraits/gragas.png"
+      }
+    ],
+    "stats": [
+      { "label": "Governance", "value": "Tribal matriarchy" },
+      { "label": "Attitude towards magic", "value": "Venerate" },
+      { "label": "Level of technology", "value": "Low" },
+      { "label": "General environment", "value": "Icy tundra" }
+    ],
+    "description": "The Freljord is a harsh and unforgiving land, where demi-gods walk the earth and the people are born warriors. While there are many individual tribes, the three greatest are the Avarosans, the Winter’s Claw, and the Frostguard, each uniquely shaped by their will to survive. It is also the only place on Runeterra where True Ice can be found.",
+    "learnMoreText": "Learn more about Freljord",
+    "learnMoreUrl": "https://universe.leagueoflegends.com/en_US/region/freljord/",
+    "featuresText": "Featured in Freljord",
+    "features": [
+      {
+        "bgImage": "/images/freljord_architecture_card.jpg",
+        "name": "A Tribal Nation",
+        "subtitle": "Architecture of the Freljord"
+      },
+      {
+        "bgImage": "/images/freljord_people_card.jpg",
+        "name": "The Tribes",
+        "subtitle": "People of the Freljord"
+      },
+      {
+        "bgImage": "/images/freljord_tools_card.jpg",
+        "name": "True Ice",
+        "subtitle": "Tools of the Freljord"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Demacia",
+    "type": "region",
+    "titleShield": ["/images/demacia.png"],
+    "subtitle": "Proud military kingdom",
+    "bgImage": "/images/demacia-region.jpg",
+    "champions": [
+      {
+        "name": "Garen",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/garen/",
+        "image": "/assets/images/champions/portraits/garen.png"
+      },
+      {
+        "name": "Sona",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/sona/",
+        "image": "/assets/images/champions/portraits/sona.png"
+      },
+      {
+        "name": "Lux",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/lux/",
+        "image": "/assets/images/champions/portraits/lux.png"
+      },
+      {
+        "name": "Jarvaniv",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/jarvaniv/",
+        "image": "/assets/images/champions/portraits/jarvaniv.png"
+      },
+      {
+        "name": "Lucian",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/lucian/",
+        "image": "/assets/images/champions/portraits/lucian.png"
+      },
+      {
+        "name": "Fiora",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/fiora/",
+        "image": "/assets/images/champions/portraits/fiora.png"
+      },
+      {
+        "name": "Poppy",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/poppy/",
+        "image": "/assets/images/champions/portraits/poppy.png"
+      },
+      {
+        "name": "Quinn",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/quinn/",
+        "image": "/assets/images/champions/portraits/quinn.png"
+      },
+      {
+        "name": "Shyvana",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/shyvana/",
+        "image": "/assets/images/champions/portraits/shyvana.png"
+      },
+      {
+        "name": "Vayne",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/vayne/",
+        "image": "/assets/images/champions/portraits/vayne.png"
+      },
+      {
+        "name": "Xinzhao",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/xinzhao/",
+        "image": "/assets/images/champions/portraits/xinzhao.png"
+      },
+      {
+        "name": "Galio",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/galio/",
+        "image": "/assets/images/champions/portraits/galio.png"
+      },
+      {
+        "name": "Kayle",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/kayle/",
+        "image": "/assets/images/champions/portraits/kayle.png"
+      },
+      {
+        "name": "Morgana",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/morgana/",
+        "image": "/assets/images/champions/portraits/morgana.png"
+      },
+      {
+        "name": "Sylas",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/sylas/",
+        "image": "/assets/images/champions/portraits/sylas.png"
+      }
+    ],
+    "stats": [
+      { "label": "Governance", "value": "Feudal monarchy" },
+      { "label": "Attitude towards magic", "value": "Deny" },
+      { "label": "Level of technology", "value": "Medium" },
+      { "label": "General environment", "value": "Fertile countryside" }
+    ],
+    "description": "Demacia is a proud, lawful kingdom with a prestigious military history. Founded as a refuge from magic after the Rune Wars, some might suggest that the golden age of Demacia has passed, unless it proves able to adapt to a changing world. Self-sufficient and agrarian, its society is inherently defensive and insular, valuing justice, honor, and duty above all else.",
+    "learnMoreText": "Learn more about Demacia",
+    "learnMoreUrl": "https://universe.leagueoflegends.com/en_US/region/demacia/",
+    "featuresText": "Featured in Demacia",
+    "features": [
+      {
+        "bgImage": "/images/demacia_military_card.jpg",
+        "name": "Demacian Army",
+        "subtitle": "Military of Demacia"
+      },
+      {
+        "bgImage": "/images/demacia_architecture_card.jpg",
+        "name": "City Structures",
+        "subtitle": "Architecture of Demacia"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Targon",
+    "type": "region",
+    "titleShield": ["/images/targon.png"],
+    "subtitle": "Sprawling western mountains",
+    "bgImage": "/images/targon-region.jpg",
+    "champions": [
+      {
+        "name": "Leona",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/leona/",
+        "image": "/assets/images/champions/portraits/leona.png"
+      },
+      {
+        "name": "Diana",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/diana/",
+        "image": "/assets/images/champions/portraits/diana.png"
+      },
+      {
+        "name": "Pantheon",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/pantheon/",
+        "image": "/assets/images/champions/portraits/pantheon.png"
+      },
+      {
+        "name": "Zoe",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/zoe/",
+        "image": "/assets/images/champions/portraits/zoe.png"
+      },
+      {
+        "name": "Aurelion Sol",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/aurelionsol/",
+        "image": "/assets/images/champions/portraits/aurelionsol.png"
+      },
+      {
+        "name": "Taric",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/taric/",
+        "image": "/assets/images/champions/portraits/taric.png"
+      },
+      {
+        "name": "Soraka",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/soraka/",
+        "image": "/assets/images/champions/portraits/soraka.png"
+      }
+    ],
+    "stats": [
+      { "label": "Governance", "value": "Tribal theocracy" },
+      { "label": "Attitude towards magic", "value": "Aspire" },
+      { "label": "Level of technology", "value": "Low" },
+      { "label": "General environment", "value": "Harsh mountains" }
+    ],
+    "description": "A mountainous and sparsely inhabited region to the west of Shurima, Targon boasts the tallest peak in Runeterra. Located far from civilization, Mount Targon is all but impossible to reach, save by the most determined pilgrims, chasing some soul-deep yearning to reach its summit. Those hardy few who survive the climb return haunted and empty, or changed beyond all recognition.",
+    "learnMoreText": "Learn more about Targon",
+    "learnMoreUrl": "https://universe.leagueoflegends.com/en_US/region/mount-targon/",
+    "featuresText": "Featured in Targon",
+    "features": [
+      {
+        "bgImage": "/images/targon_architecture_card.jpg",
+        "name": "Carved Into Rock",
+        "subtitle": "Architecture of Mount Targon"
+      },
+      {
+        "bgImage": "/images/targon_rakkor_card.jpg",
+        "name": "The Rakkor",
+        "subtitle": "People of Mount Targon"
+      },
+      {
+        "bgImage": "/images/targon_solari_card.jpg",
+        "name": "The Solari",
+        "subtitle": "Culture of Mount Targon"
+      },
+      {
+        "bgImage": "/images/targon_lunari_card.jpg",
+        "name": "The Lunari",
+        "subtitle": "Culture of Mount Targon"
+      },
+      {
+        "bgImage": "/images/targon_tools_card.jpg",
+        "name": "Life on the Mountain",
+        "subtitle": "Tools of Mount Targon"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Shurima",
+    "type": "region",
+    "titleShield": ["/images/shurima.png"],
+    "subtitle": "Fallen desert empire",
+    "bgImage": "/images/shurima-region.jpg",
+    "champions": [
+      {
+        "name": "Amumu",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/amumu/",
+        "image": "/assets/images/champions/portraits/amumu.png"
+      },
+      {
+        "name": "Azir",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/azir/",
+        "image": "/assets/images/champions/portraits/azir.png"
+      },
+      {
+        "name": "Nasus",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/nasus/",
+        "image": "/assets/images/champions/portraits/nasus.png"
+      },
+      {
+        "name": "Rammus",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/rammus/",
+        "image": "/assets/images/champions/portraits/rammus.png"
+      },
+      {
+        "name": "Renekton",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/renekton/",
+        "image": "/assets/images/champions/portraits/renekton.png"
+      },
+      {
+        "name": "Sivir",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/sivir/",
+        "image": "/assets/images/champions/portraits/sivir.png"
+      },
+      {
+        "name": "Skarner",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/skarner/",
+        "image": "/assets/images/champions/portraits/skarner.png"
+      },
+      {
+        "name": "Taliyah",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/taliyah/",
+        "image": "/assets/images/champions/portraits/taliyah.png"
+      },
+      {
+        "name": "Xerath",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/xerath/",
+        "image": "/assets/images/champions/portraits/xerath.png"
+      },
+      {
+        "name": "Kaisa",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/kaisa/",
+        "image": "/assets/images/champions/portraits/kaisa.png"
+      },
+      {
+        "name": "Rengar",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/rengar/",
+        "image": "/assets/images/champions/portraits/rengar.png"
+      },
+      {
+        "name": "Nidalee",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/nidalee/",
+        "image": "/assets/images/champions/portraits/nidalee.png"
+      },
+      {
+        "name": "Neeko",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/neeko/",
+        "image": "/assets/images/champions/portraits/neeko.png"
+      },
+      {
+        "name": "Zyra",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/zyra/",
+        "image": "/assets/images/champions/portraits/zyra.png"
+      }
+    ],
+    "stats": [
+      { "label": "Governance", "value": "Divine empire" },
+      { "label": "Attitude towards magic", "value": "Covet" },
+      { "label": "Level of technology", "value": "Unknown" },
+      { "label": "General environment", "value": "Arid desert" }
+    ],
+    "description": "Shurima was once a thriving civilization that spanned the southern continent, left in ruins by the fall of its god-emperor. Over millennia, tales of its former glory became myth and ritual. Now, its nomadic inhabitants eke out a life in the deserts, or turn to mercenary work. Still, some dare to dream of a return to the old ways.",
+    "learnMoreText": "Learn more about Shurima",
+    "learnMoreUrl": "https://universe.leagueoflegends.com/en_US/region/shurima/",
+    "featuresText": "Featured in Shurima",
+    "features": [
+      {
+        "bgImage": "/images/shurima_people_card.jpg",
+        "name": "Life in Shurima",
+        "subtitle": "People of Shurima"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Ixtal",
+    "type": "region",
+    "titleShield": ["/images/ixtal.png"],
+    "subtitle": "Perilous Eastern Jungles",
+    "bgImage": "/images/ixtal-region-card.jpg",
+    "champions": [
+      {
+        "name": "Malphite",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/malphite/",
+        "image": "/assets/images/champions/portraits/malphite.png"
+      },
+      {
+        "name": "Qiyana",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/qiyana/",
+        "image": "/assets/images/champions/portraits/qiyana.png"
+      },
+      {
+        "name": "Neeko",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/neeko/",
+        "image": "/assets/images/champions/portraits/neeko.png"
+      },
+      {
+        "name": "Rengar",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/rengar/",
+        "image": "/assets/images/champions/portraits/rengar.png"
+      },
+      {
+        "name": "Zyra",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/zyra/",
+        "image": "/assets/images/champions/portraits/zyra.png"
+      },
+      {
+        "name": "Nidalee",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/nidalee/",
+        "image": "/assets/images/champions/portraits/nidalee.png"
+      }
+    ],
+    "stats": [
+      { "label": "Governance", "value": "Magical autocracy" },
+      { "label": "Attitude towards magic", "value": "Control" },
+      { "label": "Level of technology", "value": "Unknown (alchemical)" },
+      { "label": "General environment", "value": "Tropical rainforest" }
+    ],
+    "description": "Secluded deep in the wilderness of eastern Shurima, the sophisticated arcology-city of Ixaocan remains mostly free of outside influence. Having witnessed from afar the ruination of the Blessed Isles, and the softening of Buhru culture, the Ixtali view the other factions of Runeterra as little more than upstarts and pretenders, and use their powerful elemental magic to keep any intruders at bay.",
+    "learnMoreText": "Learn more about Ixtal",
+    "learnMoreUrl": "https://universe.leagueoflegends.com/en_US/region/ixtal/",
+    "featuresText": "Featured in Ixtal",
+    "features": [
+      {
+        "bgImage": "/images/ixtal-region.jpg",
+        "name": "Ixtal",
+        "subtitle": "Perilous Eastern Jungles"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Bilgewater",
+    "type": "region",
+    "titleShield": ["/images/bilgewater.png"],
+    "subtitle": "Lawless port city",
+    "bgImage": "/images/bilgewater-region.jpg",
+    "champions": [
+      {
+        "name": "Fizz",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/fizz/",
+        "image": "/assets/images/champions/portraits/fizz.png"
+      },
+      {
+        "name": "Gangplank",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/gangplank/",
+        "image": "/assets/images/champions/portraits/gangplank.png"
+      },
+      {
+        "name": "Graves",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/graves/",
+        "image": "/assets/images/champions/portraits/graves.png"
+      },
+      {
+        "name": "Illaoi",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/illaoi/",
+        "image": "/assets/images/champions/portraits/illaoi.png"
+      },
+      {
+        "name": "Miss Fortune",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/missfortune/",
+        "image": "/assets/images/champions/portraits/missfortune.png"
+      },
+      {
+        "name": "Nautilus",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/nautilus/",
+        "image": "/assets/images/champions/portraits/nautilus.png"
+      },
+      {
+        "name": "Pyke",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/pyke/",
+        "image": "/assets/images/champions/portraits/pyke.png"
+      },
+      {
+        "name": "Tahm Kench",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/tahmkench/",
+        "image": "/assets/images/champions/portraits/tahmkench.png"
+      },
+      {
+        "name": "Twisted Fate",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/twistedfate/",
+        "image": "/assets/images/champions/portraits/twistedfate.png"
+      }
+    ],
+    "stats": [
+      { "label": "Governance", "value": "Gang syndicates" },
+      { "label": "Attitude towards magic", "value": "Employ" },
+      { "label": "Level of technology", "value": "Medium" },
+      { "label": "General environment", "value": "Tropical archipelago" }
+    ],
+    "description": "Bilgewater is a port city like no other—home to monster hunters, dock-gangs, indigenous peoples, and traders from across the known world. Almost anything can be purchased here, from outlawed hextech to the favor of local crime lords. There is no better place to seek fame and fortune, though death lurks in every alleyway, and the law is almost non-existent.",
+    "learnMoreText": "Learn more about Bilgewater",
+    "learnMoreUrl": "https://universe.leagueoflegends.com/en_US/region/bilgewater/",
+    "featuresText": "Featured in Bilgewater",
+    "features": [
+      {
+        "bgImage": "/images/bilgewater_culture_card.jpg",
+        "name": "Life in Bilgewater",
+        "subtitle": "Culture of Bilgewater"
+      },
+      {
+        "bgImage": "/images/bilgewater_people_card.jpg",
+        "name": "The Unscrupulous",
+        "subtitle": "People of Bilgewater"
+      },
+      {
+        "bgImage": "/images/bilgewater_tools_card.jpg",
+        "name": "Tools of the Trade",
+        "subtitle": "Tools of Bilgewater"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Shadow Isles",
+    "type": "region",
+    "titleShield": ["/images/shadow-isles.png"],
+    "subtitle": "Lands shrouded by the Black Mist",
+    "bgImage": "/images/shadow-isles-region.jpg",
+    "champions": [
+      {
+        "name": "Hecarim",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/hecarim/",
+        "image": "/assets/images/champions/portraits/hecarim.png"
+      },
+      {
+        "name": "Karthus",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/karthus/",
+        "image": "/assets/images/champions/portraits/karthus.png"
+      },
+      {
+        "name": "Thresh",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/thresh/",
+        "image": "/assets/images/champions/portraits/thresh.png"
+      },
+      {
+        "name": "Kalista",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/kalista/",
+        "image": "/assets/images/champions/portraits/kalista.png"
+      },
+      {
+        "name": "Yorick",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/yorick/",
+        "image": "/assets/images/champions/portraits/yorick.png"
+      },
+      {
+        "name": "Maokai",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/maokai/",
+        "image": "/assets/images/champions/portraits/maokai.png"
+      },
+      {
+        "name": "Elise",
+        "url": "https://universe.leagueoflegends.com/en_US/champion/elise/",
+        "image": "/assets/images/champions/portraits/elise.png"
+      }
+    ],
+    "stats": [
+      { "label": "Governance", "value": "None" },
+      { "label": "Attitude towards magic", "value": "Suffer" },
+      { "label": "Level of technology", "value": "Low" },
+      { "label": "General environment", "value": "Cursed archipelago" }
+    ],
+    "description": "The Shadow Isles were once a beautiful realm, long since shattered by a magical cataclysm. Now, Black Mist permanently shrouds the land, tainting and corrupting with its malevolent sorcery. Those who perish within it are condemned to become part of it for all eternity… and worse still, each year the Mist extends its grasp to reap more souls across Runeterra.",
+    "learnMoreText": "Learn more about Shadow Isles",
+    "learnMoreUrl": "https://universe.leagueoflegends.com/en_US/region/shadow-isles/",
+    "featuresText": "Featured in Shadow Isles",
+    "features": [
+      {
+        "bgImage": "/images/shadow_environment_card.jpg",
+        "name": "Perished Lands",
+        "subtitle": "Environment of the Shadow Isles"
+      },
+      {
+        "bgImage": "/images/shadow_entities_card.jpg",
+        "name": "The Fallen",
+        "subtitle": "Entities of the Shadow Isles"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Piltover & Zaun",
+    "type": "region",
+    "titleShield": ["/images/piltover.png", "/images/zaun.png"],
+    "subtitle": "Dual city-states",
+    "bgImage": "/images/piltover-zaun-region.jpg",
+    "champions": null,
+    "stats": null,
+    "description": "Dual city-states that control the major trade routes between Valoran and Shurima. Home both to visionary inventors and their wealthy patrons, the divide between social classes is becoming more dangerous.",
+    "learnMoreText": null,
+    "learnMoreUrl": null,
+    "featuresText": "Featured in Piltover & Zaun",
+    "features": [
+      {
+        "bgImage": "/images/piltover_zaun_card.jpg",
+        "name": "Connected Cities",
+        "subtitle": "Piltover & Zaun"
+      }
+    ]
+  }
+]

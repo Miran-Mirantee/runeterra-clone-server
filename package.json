@@ -1,0 +1,32 @@
+{
+  "name": "runeterra-clone-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Miran-Mirantee/runeterra-clone-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Miran-Mirantee/runeterra-clone-server/issues"
+  },
+  "homepage": "https://github.com/Miran-Mirantee/runeterra-clone-server#readme",
+  "dependencies": {
+    "@google/genai": "^1.10.0",
+    "axios": "^1.10.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.0",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
